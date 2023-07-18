@@ -4,7 +4,9 @@
 
 # Classifying Galaxies Using Convolutional Neural Networks
 
-# This code is a machine learning program that uses convolutional neural networks (CNNs) to classify deep-space galaxies based on their image data. The data is curated by Galaxy Zoo, a crowd-sourced project devoted to annotating galaxies in support of scientific discovery. The data is split into four classes: galaxies with no identifying characteristics ([1,0,0,0]), galaxies with rings ([0,1,0,0]), galactic mergers ([0,0,1,0]), and "other," irregular celestial bodies ([0,0,0,1]).
+# This code is a machine learning program that uses convolutional neural networks (CNNs) to classify deep-space galaxies based on their image data. 
+# The data is curated by Galaxy Zoo, a crowd-sourced project devoted to annotating galaxies in support of scientific discovery. 
+# The data is split into four classes: galaxies with no identifying characteristics ([1,0,0,0]), galaxies with rings ([0,1,0,0]), galactic mergers ([0,0,1,0]), and "other," irregular celestial bodies ([0,0,0,1]).
 
 # The program uses TensorFlow, a popular machine learning library, to build and train the CNN model.
 
